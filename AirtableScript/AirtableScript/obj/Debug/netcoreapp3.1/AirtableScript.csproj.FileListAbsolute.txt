@@ -1,0 +1,16 @@
+C:\Users\Asylia\Source\Repos\AirtableScript\AirtableScript\bin\Debug\netcoreapp3.1\AirtableScript.exe
+C:\Users\Asylia\Source\Repos\AirtableScript\AirtableScript\obj\Debug\netcoreapp3.1\AirtableScript.AssemblyInfoInputs.cache
+C:\Users\Asylia\Source\Repos\AirtableScript\AirtableScript\obj\Debug\netcoreapp3.1\AirtableScript.AssemblyInfo.cs
+C:\Users\Asylia\Source\Repos\AirtableScript\AirtableScript\bin\Debug\netcoreapp3.1\AirtableApiClient.dll
+C:\Users\Asylia\Source\Repos\AirtableScript\AirtableScript\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asylia\Source\Repos\AirtableScript\AirtableScript\obj\Debug\netcoreapp3.1\AirtableScript.csproj.CopyComplete
+C:\Users\Asylia\Source\Repos\AirtableScript\AirtableScript\bin\Debug\netcoreapp3.1\AirtableScript.deps.json
+C:\Users\Asylia\Source\Repos\AirtableScript\AirtableScript\bin\Debug\netcoreapp3.1\AirtableScript.runtimeconfig.json
+C:\Users\Asylia\Source\Repos\AirtableScript\AirtableScript\bin\Debug\netcoreapp3.1\AirtableScript.runtimeconfig.dev.json
+C:\Users\Asylia\Source\Repos\AirtableScript\AirtableScript\bin\Debug\netcoreapp3.1\AirtableScript.dll
+C:\Users\Asylia\Source\Repos\AirtableScript\AirtableScript\bin\Debug\netcoreapp3.1\AirtableScript.pdb
+C:\Users\Asylia\Source\Repos\AirtableScript\AirtableScript\bin\Debug\netcoreapp3.1\Geocoding.Core.dll
+C:\Users\Asylia\Source\Repos\AirtableScript\AirtableScript\bin\Debug\netcoreapp3.1\Geocoding.Google.dll
+C:\Users\Asylia\Source\Repos\AirtableScript\AirtableScript\obj\Debug\netcoreapp3.1\AirtableScript.dll
+C:\Users\Asylia\Source\Repos\AirtableScript\AirtableScript\obj\Debug\netcoreapp3.1\AirtableScript.pdb
+C:\Users\Asylia\Source\Repos\AirtableScript\AirtableScript\obj\Debug\netcoreapp3.1\AirtableScript.csprojAssemblyReference.cache
