@@ -9,7 +9,7 @@ namespace AirtableScript
 {
     class Handler
     {
-        readonly static string googleApiKey = "AIzaSyAReyPFqDfJbY2_2zgsbprltGJ8qs-v24U";
+        readonly static string googleApiKey = "XXX";
 
         readonly static string baseId = "appIlXTISIivP7QnW";
         readonly static string appKey = "keyqxHaTyUVBnqKfW";
